@@ -88,7 +88,7 @@ public class Program {
 			fun.toString();
 		}
 
-		System.out.println(".......Selection BubbleSort........");
+		System.out.println(".......Selection Sort........");
 		selectionSort(v, n, 1);
 		System.out.println("Funcionarios por ordem crescente de salario:");
 		for (Funcionario fun : v) {
